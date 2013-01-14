@@ -42,6 +42,8 @@
   <project path="device/htc/shooter" name="Team-Hydra/android_device_htc_shooter" />
   <project path="device/htc/shooteru" name="Team-Hydra/android_device_htc_shooteru" />
   <project path="device/htc/shootervm" name="Team-Hydra/android_device_htc_shootervm" />
+  <project path="device/samsung/d710" name="Team-Hydra/android_device_samsung_d710" />
+  <project path="device/samsung/galaxys2-common" name="CyanogenMod/android_device_samsung_galaxys2-common" />
   <!-- <project path="device/sample" name="CyanogenMod/android_device_sample" groups="device" /> -->
   <!-- <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" /> -->
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="jb-mr1-release" />
@@ -262,12 +264,14 @@
   <project path="hardware/qcom/sensors" name="CyanogenMod/android_hardware_qcom_sensors" />
   <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
   <project path="hardware/samsung_slsi/exynos5" name="CyanogenMod/android_hardware_samsung_slsi_exynos5" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="kernel/htc/msm8660" name="Team-Hydra/android_kernel_htc_msm8660" />
+  <project path="kernel/samsung/smdk4210" name="Team-Hydra/android_kernel_samsung_smdk4210_new" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="jb-mr1-release" />
@@ -305,6 +309,7 @@
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
+  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
@@ -379,6 +384,7 @@
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
   <project path="vendor/htc" name="Team-Hydra/android_vendor_htc" />
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
+  <project path="vendor/samsung" name="Team-Hydra/android_vendor_samsung" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
