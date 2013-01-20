@@ -253,7 +253,7 @@
   <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" />
   <project path="hardware/qcom/audio-legacy" name="Team-Hydra/android_hardware_qcom_audio-legacy" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" />
-  <project path="hardware/qcom/camera" name="Team-Hydra/android_hardware_qcom_camera" />
+  <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" />
   <project path="hardware/qcom/display-legacy" name="Team-Hydra/android_hardware_qcom_display-legacy" />
