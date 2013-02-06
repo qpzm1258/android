@@ -248,7 +248,7 @@
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
   <project path="hardware/libhardware" name="Team-Hydra/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="Team-Hydra/android_hardware_libhardware_legacy" />
-  <!-- <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" /> -->
+  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" />
   <project path="hardware/qcom/audio-caf" name="Team-Hydra/android_hardware_qcom_audio-caf" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" />
@@ -256,8 +256,7 @@
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" />
   <project path="hardware/qcom/display-legacy" name="Team-Hydra/android_hardware_qcom_display-legacy" />
-  <project path="hardware/qcom/gps" name="Team-Hydra/android_hardware_qcom_gps" />
-  <project path="hardware/qcom/gps-legacy" name="Team-Hydra/android_hardware_qcom_gps-legacy" />
+  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" />
   <project path="hardware/qcom/media" name="Team-Hydra/android_hardware_qcom_media" />
   <project path="hardware/qcom/media-legacy" name="Team-Hydra/android_hardware_qcom_media-legacy" />
