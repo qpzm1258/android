@@ -272,7 +272,7 @@
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="kernel/htc/jewel" name="Team-Hydra/android_kernel_htc_jewel" />
-  <project path="kernel/htc/msm8660" name="Team-Hydra/android_kernel_htc_msm8660" />
+  <project path="kernel/htc/msm8660" name="johnnyslt/android_kernel_htc_msm8660" />
   <project path="kernel/htc/msm8960" name="Team-Hydra/android_kernel_htc_msm8960" />
   <project path="kernel/samsung/smdk4210" name="Team-Hydra/android_kernel_samsung_smdk4210" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
