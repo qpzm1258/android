@@ -1,14 +1,13 @@
-Team-Hydra CM Based Manifest
+CM Based Manifest
 ===========
 
 Getting Started
 ---------------
 
-To get started with Team-Hydra/CyanogenMod JB build, you'll need to get familiar with Git and Repo.
 
-To initialize your local repository using the TeamJB trees, use a command like this:
+To initialize your local repository using the my trees, use this command:
 
-    repo init -u git://github.com/Team-Hydra/android.git -b cm-10.1
+    repo init -u git://github.com/johnnyslt/android.git -b cm-10.1
 
 Then to sync up:
 
