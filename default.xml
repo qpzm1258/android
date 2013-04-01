@@ -349,6 +349,7 @@
   <project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="prebuilt/linux-x86/toolchain/linaro-4.7.1" name="linaro-4.7.1" revision="master" remote="johnnyslt" />
+  <project path="prebuilt/linux-x86/toolchain/linaro-4.7.3_cortex-a8" name="linaro-4.7.3_cortex-a8" revision="master" remote="johnnyslt" />
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="darwin" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="darwin" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="linux" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
