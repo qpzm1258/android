@@ -146,11 +146,13 @@
   <project path="external/libogg" name="CyanogenMod/android_external_libogg" />
   <project path="external/libpcap" name="CyanogenMod/android_external_libpcap" />
   <project path="external/libphonenumber" name="CyanogenMod/android_external_libphonenumber" />
+  <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" />
   <project path="external/libpng" name="CyanogenMod/android_external_libpng" groups="pdk" />
   <project path="external/libppp" name="CyanogenMod/android_external_libppp" />
   <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" groups="pdk" />
   <project path="external/libsepol" name="CyanogenMod/android_external_libsepol" groups="pdk" />
   <project path="external/libusb" name="CyanogenMod/android_external_libusb" />
+  <project path="external/libusbx" name="CyanogenMod/android_external_libusbx" />
   <project path="external/libusb-compat" name="CyanogenMod/android_external_libusb-compat" />
   <project path="external/libvorbis" name="CyanogenMod/android_external_libvorbis" />
   <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" groups="pdk" />
