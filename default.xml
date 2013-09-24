@@ -93,7 +93,6 @@
   <project path="external/eyes-free" name="CyanogenMod/android_external_eyes-free" />
   <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" groups="pdk" />
-  <project path="external/Focal" name="CyanogenMod/android_external_Focal" />
   <project path="external/freetype" name="CyanogenMod/android_external_freetype" groups="pdk" />
   <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" />
   <project path="external/fuse" name="CyanogenMod/android_external_fuse" />
