@@ -483,5 +483,4 @@
   <project path="prebuilt/linux-x86/toolchain/linaro-4.7.3_cortex-a8" name="linaro-4.7.3_cortex-a8" revision="master" remote="johnnyslt" />
   <project path="prebuilt/linux-x86/toolchain/linaro-4.8.x_cortex-a8" name="linaro-4.8.x_cortex-a8" revision="master" remote="johnnyslt" />
   <project path="vendor/htc" name="johnnyslt/android_vendor_htc" />
-  <project path="hardware/msm7k" name="johnnyslt/android_hardware_msm7k" />
 </manifest>
