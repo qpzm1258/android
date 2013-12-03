@@ -105,6 +105,7 @@
   <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/clang" name="CyanogenMod/android_external_clang" groups="pdk" />
   <project path="external/compiler-rt" name="CyanogenMod/android_external_compiler-rt" groups="pdk" />
+  <project path="external/connectivity" name="CyanogenMod/android_external_connectivity" />
   <project path="external/crda" name="CyanogenMod/android_external_crda" />
   <project path="external/dexmaker" name="CyanogenMod/android_external_dexmaker" />
   <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" />
@@ -340,6 +341,7 @@
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
+  <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
@@ -477,11 +479,11 @@
 
   <project path="device/htc/msm8660-common" name="johnnyslt/android_device_htc_msm8660-common" />
   <project path="device/htc/shooteru" name="johnnyslt/android_device_htc_shooteru" revision="cm-11.0_ion"/>
-  <project path="hardware/qcom/display-legacy" name="Evervolv/android_hardware_qcom_display-legacy" revision="kitkat" />
-  <project path="hardware/qcom/media-legacy" name="Evervolv/android_hardware_qcom_media-legacy" revision="kitkat" />
+  <project path="hardware/qcom/display-legacy" name="johnnyslt/android_hardware_qcom_display-legacy" />
+  <project path="hardware/qcom/media-legacy" name="johnnyslt/android_hardware_qcom_media-legacy" />
   <project path="kernel/htc/msm8660" name="johnnyslt/android_kernel_htc_msm8660" />
   <project path="kernel/htc/shooteru" name="johnnyslt/android_kernel_shooter" revision="cm-11.0_ion" />
   <project path="prebuilt/linux-x86/toolchain/linaro-4.7.3_cortex-a8" name="linaro-4.7.3_cortex-a8" revision="master" remote="johnnyslt" />
   <project path="prebuilt/linux-x86/toolchain/linaro-4.8.x_cortex-a8" name="linaro-4.8.x_cortex-a8" revision="master" remote="johnnyslt" />
-  <project path="vendor/htc" name="johnnyslt/android_vendor_htc" />
+  <project path="vendor/htc" name="johnnyslt/android_vendor_htc" revision="cm-11.0_ion" />
 </manifest>
