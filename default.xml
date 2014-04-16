@@ -10,7 +10,7 @@
            review="review.cyanogenmod.org" />
 
   <remote name="johnnyslt"
-           fetch="https://github.com/johnnyslt/" />
+           fetch="git://github.com/johnnyslt/" />
 
   <remote name="TeamWin"
            fetch="https://github.com/TeamWin/" />
