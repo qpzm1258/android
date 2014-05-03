@@ -489,6 +489,6 @@
   <project path="hardware/qcom/media-legacy" name="johnnyslt/android_hardware_qcom_media-legacy" />
   <project path="kernel/htc/shooteru" name="johnnyslt/android_kernel_shooter" revision="cm-11.0" />
   <project path="prebuilt/linux-x86/toolchain/linaro-4.7.3_cortex-a8" name="linaro-4.7.3_cortex-a8" revision="master" remote="johnnyslt" />
-  <project path="prebuilt/linux-x86/toolchain/linaro-4.8.x_cortex-a8" name="linaro-4.8.x_cortex-a8" revision="master" remote="johnnyslt" />
+  <project path="prebuilt/linux-x86/toolchain/sm-arm-eabi-4.8" name="UBERUTILS/arm-eabi-4.8" revision="master" />
   <project path="vendor/htc" name="johnnyslt/android_vendor_htc" revision="cm-11.0" />
 </manifest>
