@@ -21,6 +21,9 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
+  <remote name="qpzm1258"
+           fetch="https://github.com/qpzm1258/" />
+
   <default revision="refs/heads/cm-11.0"
            remote="github"
            sync-j="4" />
@@ -492,13 +495,13 @@
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
 
-  <project path="device/htc/msm8660-common" name="johnnyslt/android_device_htc_msm8660-common" />
-  <project path="device/htc/shooteru" name="johnnyslt/android_device_htc_shooteru" revision="cm-11.0"/>
+  <project path="device/htc/msm8660-common" name="qpzm1258/android_device_htc_msm8660-common" />
+  <project path="device/htc/shooterct" name="qpzm1258/android_device_htc_shooterct" revision="cm-11.0"/>
   <project path="hardware/qcom/media-legacy" name="johnnyslt/android_hardware_qcom_media-legacy" />
-  <project path="kernel/htc/shooteru" name="johnnyslt/android_kernel_shooter" revision="cm-11.0" />
+  <project path="kernel/htc/shooterct" name="johnnyslt/android_kernel_shooter" revision="cm-11.0" />
   <project path="prebuilt/linux-x86/toolchain/linaro-4.7.3_cortex-a8" name="linaro-4.7.3_cortex-a8" revision="master" remote="johnnyslt" />
   <project path="prebuilt/linux-x86/toolchain/sm-arm-eabi-4.8" name="UBERUTILS/arm-eabi-4.8" revision="master" />
   <project path="prebuilt/linux-x86/toolchain/sm-arm-eabi-4.9" name="UBERUTILS/arm-eabi-4.9" revision="master" />
   <project path="prebuilt/linux-x86/toolchain/linaro-arm-eabi-4.9" name="UBERUTILS/linaro-arm-eabi-4.9" revision="master" />
-  <project path="vendor/htc" name="johnnyslt/android_vendor_htc" revision="cm-11.0" />
+  <project path="vendor/htc" name="qpzm1258/android_vendor_htc" revision="cm-11.0" />
 </manifest>
